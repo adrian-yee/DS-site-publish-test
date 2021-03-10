@@ -1918,20 +1918,14 @@ pagination:
   hasSass: true    # <-- auto generated, don't change
   hasJs: false    # <-- auto generated, don't change
   hasReact: true    # <-- auto generated, don't change
-page-test:
-  name: Page-test
+pagetest:
+  name: pagetest
   description: >
     This is a page to test how to publish Australian Government Design System components to the external documentation site.
   metatags:
-    - color
-    - spacing
-    - typography
-    - mixins
-    - variables
-    - functions
+    - none
   tags:
-    - typography
-    - accessibility
+    - none
   related: null
   related-articles:
     - TODO
@@ -1954,4 +1948,5 @@ page-test:
   hasSass: true    # <-- auto generated, don't change
   hasJs: false    # <-- auto generated, don't change
   hasReact: false    # <-- auto generated, don't change
-  ID:   # <-- auto generated, don't change
+  ID: pagetest # <-- auto generated, don't change
+
