@@ -1943,7 +1943,7 @@ page-test:
       img: adrian-yee.jpg
       url: 'https://github.com/adrian-yee'
   state: published
-  category: Layout
+  category: content
   order: 0
   discussions:
     - open: 2
@@ -1954,4 +1954,4 @@ page-test:
   hasSass: true    # <-- auto generated, don't change
   hasJs: false    # <-- auto generated, don't change
   hasReact: false    # <-- auto generated, don't change
-  ID: core    # <-- auto generated, don't change
+  ID:   # <-- auto generated, don't change
