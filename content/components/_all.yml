@@ -1918,14 +1918,20 @@ pagination:
   hasSass: true    # <-- auto generated, don't change
   hasJs: false    # <-- auto generated, don't change
   hasReact: true    # <-- auto generated, don't change
-pagetest:
-  name: pagetest
-  description: >
-    This is a page to test how to publish Australian Government Design System components to the external documentation site.
+page-test:
+  name: page-test
+  description: |
+    page-test content.
   metatags:
-    - none
+    - color
+    - spacing
+    - typography
+    - mixins
+    - variables
+    - functions
   tags:
-    - none
+    - layout
+    - content
   related: null
   related-articles:
     - TODO
@@ -1933,7 +1939,7 @@ pagetest:
     - TODO
   required: true
   contributors:
-    - name: Adrian Yee
+    - name: adrian Yee
       img: adrian-yee.jpg
       url: 'https://github.com/adrian-yee'
   state: published
@@ -1948,5 +1954,4 @@ pagetest:
   hasSass: true    # <-- auto generated, don't change
   hasJs: false    # <-- auto generated, don't change
   hasReact: false    # <-- auto generated, don't change
-  ID: pagetest # <-- auto generated, don't change
-
+  ID: page-test    # <-- auto generated, don't change

@@ -1,1 +1,1 @@
-<p>TODO</p>
+<p>This is an example description</p>
