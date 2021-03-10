@@ -1940,10 +1940,10 @@ page-test:
   required: true
   contributors:
     - name: Adrian Yee
-      img: dominik-wilkowski.jpg
+      img: adrian-yee.jpg
       url: 'https://github.com/adrian-yee'
   state: published
-  category: Content
+  category: Layout
   order: 0
   discussions:
     - open: 2
