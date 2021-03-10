@@ -38,4 +38,3 @@ To run the watch while developing and spin up a local server run:
 ```bash
 npm run watch
 ```
-//edit
