@@ -1943,7 +1943,7 @@ page-test:
       img: dominik-wilkowski.jpg
       url: 'https://github.com/adrian-yee'
   state: published
-  category: core
+  category: Content
   order: 0
   discussions:
     - open: 2
